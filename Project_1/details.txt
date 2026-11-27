@@ -1,0 +1,27 @@
+India AI Job Market Intelligence :::
+We're going to build a system that
+ analyzes the actual Indian job
+ market for AI, ML and Data Science
+ roles.
+
+ What will this system do?
+Imagine you're an AI Engineer looking for placements.
+
+You want answers to questions like:
+1. Which skills are companies demanding most?
+2. How many Python, SQL, PyTorch and TensorFlow requirements appear in job listings?
+3. Which cities have more AI/ML opportunities?
+4. What salary ranges are being advertised?
+5. Which companies are hiring?
+6. How are AI Engineer requirements different from Data Scientist requirements?
+We'll collect real job advertisements and turn them into meaningful insights.
+
+1. Our data source — Adzuna API
+We'll use the Adzuna developer API.
+Adzuna Developer PortalWhy this API?
+- Real job advertisements.
+- Search by job title and location.
+- Salary information where available.
+- Company and location information.
+- JSON responses.
+- API authentication using credentials.
